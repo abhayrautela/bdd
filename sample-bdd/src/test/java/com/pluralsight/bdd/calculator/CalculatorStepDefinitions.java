@@ -1,4 +1,4 @@
-package com.pluralsight.bdd;
+package com.pluralsight.bdd.calculator;
 
 import com.pluralsight.calculator.Calculator;
 import io.cucumber.java.en.Given;
