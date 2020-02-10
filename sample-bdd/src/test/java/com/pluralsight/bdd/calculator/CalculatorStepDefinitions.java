@@ -1,9 +1,9 @@
 package com.pluralsight.bdd.calculator;
 
 import com.pluralsight.calculator.Calculator;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

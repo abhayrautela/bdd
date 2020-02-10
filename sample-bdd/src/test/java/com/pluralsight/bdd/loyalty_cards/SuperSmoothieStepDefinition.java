@@ -3,9 +3,9 @@ package com.pluralsight.bdd.loyalty_cards;
 import com.pluralsight.loyalty_cards.DrinkCatalog;
 import com.pluralsight.loyalty_cards.MorningFreshnessMember;
 import com.pluralsight.loyalty_cards.SuperSmoothieSchema;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
 
 import java.util.List;
 import java.util.Map;
